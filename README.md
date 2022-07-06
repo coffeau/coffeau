@@ -18,3 +18,9 @@ CV _lattes_: [**http://lattes.cnpq.br/6141396197425343**](https://wwws.cnpq.br/c
 - **Destaque do projeto "Investigando o uso de simulações computacionais no ensino de probabilidade e estatística" na modalidade de produção de conhecimento**. Órgão emissor: MICTI. Ano: 2021.
 - **Menção honrosa no trabalho  "O Método de Monte Carlo Aplicado à Análise do Custo de Aquisição de Ações no Contexto de Um Pequeno Investidor"**. Órgão emissor: UNIVALI. Ano: 2022.
 
+<div>
+<a href="https://github.com/coffeau">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffeau&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coffeau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
